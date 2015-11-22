@@ -5,7 +5,7 @@ Show most popular npm packages, used by given github user
 
 1. Find all user's repositories
 2. Look for package.json file
-3. Retrive  `dependancies` and `devDependancies` entries
+3. Retrive  `dependencies` and `devDependencies` entries
 4. Process data and generate ranking list
 
 # Installation
