@@ -1,0 +1,17 @@
+{
+  "name": "gh-user-top-npm-packages",
+  "version": "1.0.0",
+  "description": "Show most popular npm packages, used by given github user",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "github-api": "^0.10.6",
+    "underscore": "^1.8.3"
+  }
+}
